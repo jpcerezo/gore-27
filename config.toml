@@ -1,5 +1,5 @@
-baseurl = "http://jpcerezo.info/esnog26" # Hostname (and path) to the root.
-title = "ESNOG/GORE Reunion 26" # Site title.
+baseurl = "http://jpcerezo.info/esnog27" # Hostname (and path) to the root.
+title = "ESNOG/GORE Reunion 27" # Site title.
 theme = "coder-portfolio" # Set the theme.
 languagecode = "es" # The site’s language code used to generate RSS.
 defaultcontentlanguage = "es" # The default content language.
@@ -15,9 +15,9 @@ pygmentsUseClasses = true # new add
 
 [params] # theme parameters
     author = "" # Author's name.
-    info = "Reunion no. 26 del Grupo de Operadores de Red Español (ESNOG)" # Author's job title or info.
-    description = "GORE 26 website" # Site description.
-    keywords = "esnog,gore26,internet" # Site keywords.
+    info = "Reunion no. 27 del Grupo de Operadores de Red Español (ESNOG)" # Author's job title or info.
+    description = "GORE 276 website" # Site description.
+    keywords = "esnog,gore27,internet" # Site keywords.
     #avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
     avatarurl = "img/esnog26.png" 
 
