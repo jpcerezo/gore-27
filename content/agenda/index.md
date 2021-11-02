@@ -34,7 +34,7 @@ CATNIX ha actualizado recientemente su infraestructura y ha cambiado la arquitec
 
 ### 12:00 CET
 #### Borja Marcos -  El Pajaro Carpintero
-{{% portfolio image="/esnog27/img/esnog-logo-small.jpg" alt="IXTALK" %}}
+{{% portfolio image="/esnog27/img/borja-marcos.jpg" alt="BORJA" %}}
 
 {{% /portfolio %}}  
 

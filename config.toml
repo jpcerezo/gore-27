@@ -16,10 +16,10 @@ pygmentsUseClasses = true # new add
 [params] # theme parameters
     author = "" # Author's name.
     info = "Reunion no. 27 del Grupo de Operadores de Red Español (ESNOG)" # Author's job title or info.
-    description = "GORE 276 website" # Site description.
+    description = "GORE 27 website" # Site description.
     keywords = "esnog,gore27,internet" # Site keywords.
     #avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
-    avatarurl = "img/esnog26.png" 
+    avatarurl = "img/esnog27.png" 
 
     footercontent = "Accede a mas detalles del evento en las entradas del menu superior" # Add footer content
     fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
