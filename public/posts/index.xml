@@ -1,33 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ESNOG/GORE Reunion 26</title>
-    <link>http://jpcerezo.info/esnog26/posts/</link>
-    <description>Recent content in Posts on ESNOG/GORE Reunion 26</description>
+    <title>Posts on ESNOG/GORE Reunion 27</title>
+    <link>http://jpcerezo.info/esnog27/posts/</link>
+    <description>Recent content in Posts on ESNOG/GORE Reunion 27</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 03 May 2021 11:47:13 +0200</lastBuildDate><atom:link href="http://jpcerezo.info/esnog26/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://jpcerezo.info/esnog27/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Registro en GORE-26</title>
-      <link>http://jpcerezo.info/esnog26/posts/registro/</link>
-      <pubDate>Mon, 03 May 2021 11:47:13 +0200</pubDate>
+      <title>Enlace a la reunion GORE27</title>
+      <link>http://jpcerezo.info/esnog27/posts/gore27-link/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://jpcerezo.info/esnog26/posts/registro/</guid>
-      <description>Registro El registro para asistir a la reunión (virtual) GORE-26 de ESNOG se hace a través de este enlace a Eventbrite:
-https://www.eventbrite.es/e/entradas-esnog-26-152283368655
-La dirección de correo electrónico que indiques se usará para avisos y notificaciones sobre la reunión, aunque te recomendamos que te des de alta en la lista de correo de ESNOG.
-También puedes utilizar el Slack de ESNOG para estar al día en todas las novedades sobre este evento, y sobre ESNOG en general.</description>
-    </item>
-    
-    <item>
-      <title>Enlace a la reunion GORE26</title>
-      <link>http://jpcerezo.info/esnog26/posts/gore26-link/</link>
-      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://jpcerezo.info/esnog26/posts/gore26-link/</guid>
-      <description>La reunión GORE26 los dias 25 y 26 de Mayo de 2021 será virtual, y tendrá lugar a través de Zoom.
-El enlace se enviará a los asistentes registrados por mail, dias antes de la reunión. (Se recomienda actualizar a la ultima versión de la aplicación Zoom antes de la reunión)
-Adicionalmente se hará streaming de las sesiones a traves del canal de ESNOG en YouTube. Para seguir las emisiones, haga click AQUI.</description>
+      <guid>http://jpcerezo.info/esnog27/posts/gore27-link/</guid>
+      <description>La reunión GORE27 el dia 16 de Noviembre de 2021 será presencial con aforo limitado, y podrá seguirse tambien a traves de Zoom Events y streaming por Youtube.
+El enlace para seguimiento en remoto se hará publico pocos dias antes de la reunión. (Se recomienda actualizar a la ultima versión de la aplicación Zoom antes de la reunión)
+El streaming de las sesiones a traves del canal de ESNOG en YouTube se podra seguir por AQUI.</description>
     </item>
     
   </channel>
