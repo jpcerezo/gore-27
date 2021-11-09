@@ -65,11 +65,14 @@ CATNIX ha actualizado recientemente su infraestructura y ha cambiado la arquitec
 ##### Suzanne Taylor (RIPE NCC): Estado del Internet en el Sur de Europa.
 {{% portfolio image="/esnog27/img/staylor_ripe_FULL.jpg" alt="STAYLOR" %}}
 
-Recientemente RIPE lanzo un informe sobre el estado del Internet en España, Francia, Portugal, Italia y Grecia. 
+Recientemente RIPE lanzó un informe sobre el estado del Internet en España, Francia, Portugal, Italia y Grecia. 
 
-Contiene algunos datos y gráficos muy interesantes:
+Contiene algunos datos y gráficos que pueden ser de interés para la comunidad ESNOG.
 
-https://labs.ripe.net/documents/166/Mediterranean_country_report_English_final.pdf
+([Enlace al informe completo](https://labs.ripe.net/documents/166/Mediterranean_country_report_English_final.pdf))
+
+**Atención: Esta charla será en ingles**
+
 {{% /portfolio %}} 
 
 ---------------------------
