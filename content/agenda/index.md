@@ -1,6 +1,6 @@
 ---
 title: "Agenda ESNOG 27"
-date: 2021-10-02
+date: 2021-11-11
 draft: true 
 ---
 
@@ -62,12 +62,11 @@ CATNIX ha actualizado recientemente su infraestructura y ha cambiado la arquitec
 ---------------------------
 
 ### 15:30 CET
-##### Suzanne Taylor (RIPE NCC): Estado del Internet en el Sur de Europa.
+##### Suzanne Taylor (RIPE NCC): The Internet Landscape in Spain as Seen by the RIPE NCC
 {{% portfolio image="/esnog27/img/staylor_ripe_FULL.jpg" alt="STAYLOR" %}}
 
-Recientemente RIPE lanzó un informe sobre el estado del Internet en España, Francia, Portugal, Italia y Grecia. 
-
-Contiene algunos datos y gráficos que pueden ser de interés para la comunidad ESNOG.
+In this talk, I’ll present some highlights from the RIPE NCC Internet Country Report: Mediterranean Europe with a particular focus on Spain.
+I’ll share some data and insights on Internet number resource allocation and growth, connections between domestic networks, international connectivity, access to the domain name system and routing security in the country, along with its capacity for future growth. These insights are based largely on measurements collected by the RIPE NCC’s RIPE Atlas and RIS platforms.
 
 ([Enlace al informe completo](https://labs.ripe.net/documents/166/Mediterranean_country_report_English_final.pdf))
 
@@ -85,7 +84,7 @@ Whatever it means...
 
 ---------------------------
 
-### 16:30 CEST
+### 16:30 CET
 ##### Panel: NAT vs IPv6 (moderado por Joao Damas)
 {{% portfolio image="/esnog27/img/esnog-logo-small.jpg" alt="JPC1" %}}
 Discusion colaborativa sobre el antagonismo de siempre: NAT vs IPv6
