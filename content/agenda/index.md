@@ -43,7 +43,7 @@ La Orquestación, la automatización y la virtualización son cada vez más impo
 ---------------------------
 
 ### 12:30 CET
-##### Amedeo Beck Peccoz (Alturna): BGP (Full Routing Table) con equipos de bajo coste
+##### Amedeo Beck Peccoz: BGP (Full Routing Table) con equipos de bajo coste
 {{% portfolio image="/esnog27/img/Amedeo_beck_FULL.jpg" alt="Amedeo" %}}
 En determinadas circunstancias es posible levantar sesiones  BGP con toda la tabla de enrutamiento y emplear equipos más pequeños que, en su origen, no fueron pensado para este uso. 
 En este laboratorio vamos a descubrir cuáles son los casos más comunes y cómo se hace.
