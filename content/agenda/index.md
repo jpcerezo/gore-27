@@ -26,9 +26,11 @@ Bienvenida a los asistentes e instrucciones sobre la reunion GORE-27
 ---------------------------
 
 ### 10:00 CET
-##### Christian Adell (NetworkToCode): Diffsync y nautobot 
+##### Christian Adell (NetworkToCode): Dancing with System of Records 
 {{% portfolio image="/esnog27/img/ChristianAdell_FULL.jpg" alt="CHADELL" %}}
 Presentación sobre Diffsync y nautobot 
+
+([PRESENTACION](/esnog27/archivos/ESNOG27-CHADELL.pdf))
 {{% /portfolio %}}  
 
 ---------------------------
@@ -38,6 +40,18 @@ Presentación sobre Diffsync y nautobot
 {{% portfolio image="/esnog27/img/MariaIsabelGandia_FULL.png" alt="MIGANDIA" %}}
 La Orquestación, la automatización y la virtualización son cada vez más importantes para los desafíos a los que se enfrentan los operadores de redes, cuyos usuarios exigen autoservicio en una plataforma digital. No se trata de reemplazar lo que se hacía manualmente con lo mismo automatizado, es un cambio de mentalidad que nos afecta a todos. Para ayudar a los ingenieros de red en el proceso de aprendizaje de técnicas de automatización, el proyecto GÉANT ha creado la Network Automation e-Academy, de acceso gratuito y con cápsulas sobre distintos temas, desde formatos, protocolos y lenguajes a ejemplos de casos del mundo académico, que se van publicando regularmente en la e-Academy (https://e-academy.geant.org/).
 
+([PRESENTACION](/esnog27/archivos/ESNOG27-Network_Automation_e-Academy.pdf))
+{{% /portfolio %}}  
+
+---------------------------
+
+### 12:00 CET
+##### Javier Achirica: ESPANIX Update
+{{% portfolio image="/esnog27/img/JavierAchirica_FULL.jpg" alt="Achirica" %}}
+Actiualizacion sobre el estado de EspaNIX.
+
+
+*PRESENTACION NO DISPONIBLE AUN*
 {{% /portfolio %}}  
 
 ---------------------------
@@ -48,6 +62,8 @@ La Orquestación, la automatización y la virtualización son cada vez más impo
 En determinadas circunstancias es posible levantar sesiones  BGP con toda la tabla de enrutamiento y emplear equipos más pequeños que, en su origen, no fueron pensado para este uso. 
 En este laboratorio vamos a descubrir cuáles son los casos más comunes y cómo se hace.
 
+
+*PRESENTACION NO DISPONIBLE AUN*
 {{% /portfolio %}}  
 
 ---------------------------
@@ -57,6 +73,7 @@ En este laboratorio vamos a descubrir cuáles son los casos más comunes y cómo
 {{% portfolio image="/esnog27/img/MariaIsabelGandia_FULL.png" alt="MIGANDIA" %}}
 CATNIX ha actualizado recientemente su infraestructura y ha cambiado la arquitectura, pasando de una red de nivel 2 a un plano de control basado en BGP EVPN y un plano de datos con VXLAN. Tener un fabric IP entre nodos permite aumentar la escalabilidad y la redundancia, evitando las problemáticas del uso de STP. También se ha pasado a ECMP en los enlaces entre nodos, sustituyendo a LACP.
 
+([PRESENTACION](/esnog27/archivos/ESNOG27-CATNIX-Arquitectura-definitiva.pdf))
 {{% /portfolio %}}  
 
 ---------------------------
@@ -72,6 +89,7 @@ I’ll share some data and insights on Internet number resource allocation and g
 
 **Atención: Esta charla será en ingles**
 
+([PRESENTACION](/esnog27/archivos/ESNOG27-RIPE-NCC.pdf))
 {{% /portfolio %}} 
 
 ---------------------------
@@ -80,6 +98,8 @@ I’ll share some data and insights on Internet number resource allocation and g
 ##### Borja Marcos -  El Pajaro Carpintero
 {{% portfolio image="/esnog27/img/borja-marcos_FULL.jpg" alt="BORJA" %}}
 Whatever it means...
+
+*PRESENTACION NO DISPONIBLE AUN*
 {{% /portfolio %}}  
 
 ---------------------------
@@ -89,6 +109,7 @@ Whatever it means...
 {{% portfolio image="/esnog27/img/esnog-logo-small.jpg" alt="JPC1" %}}
 Discusion colaborativa sobre el antagonismo de siempre: NAT vs IPv6
 
+*PRESENTACION NO DISPONIBLE AUN*
 {{% /portfolio %}}  
 
 ---------------------------
