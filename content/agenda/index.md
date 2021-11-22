@@ -63,7 +63,7 @@ En determinadas circunstancias es posible levantar sesiones  BGP con toda la tab
 En este laboratorio vamos a descubrir cuáles son los casos más comunes y cómo se hace.
 
 
-*PRESENTACION NO DISPONIBLE AUN*
+([PRESENTACION](/esnog27/archivos/ESNOG27-Amedeo-Beck-Peccoz.pdf))
 {{% /portfolio %}}  
 
 ---------------------------
