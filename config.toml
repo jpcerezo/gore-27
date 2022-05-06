@@ -1,4 +1,4 @@
-baseurl = "http://jpcerezo.info/esnog27" # Hostname (and path) to the root.
+baseurl = "http://esnog.net/gore27" # Hostname (and path) to the root.
 title = "ESNOG/GORE Reunion 27" # Site title.
 theme = "coder-portfolio" # Set the theme.
 languagecode = "es" # The site’s language code used to generate RSS.
@@ -48,7 +48,7 @@ pygmentsUseClasses = true # new add
     enableLineShare = false     # new add
     enableLinkedInShare = true # new add
 
-    thumbnail = "img/esnog26.png" # default sns thumbnail
+    thumbnail = "img/esnog27.png" # default sns thumbnail
 
     # Multilanguage mode
     langseparator = "|" # Separates menus from language selectors when site is multilingual.
